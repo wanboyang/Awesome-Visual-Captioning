@@ -10,6 +10,7 @@
 - [ICCV-2019](#ICCV-2019)
 - [CVPR-2019](#CVPR-2019)
 - [AAAI-2019](#AAAI-2019)
+- [Deep-learning based and Classical methods](#DC)
 
 ## Paper Roadmap
 
@@ -323,3 +324,52 @@
 
 - **MGSA**: Motion Guided Spatial Attention for Video Captioning  [[paper]](http://yugangjiang.info/publication/19AAAI-vidcaptioning.pdf)  
   *Shaoxiang Chen (Fudan University); Yu-Gang Jiang (Fudan University)*  
+  
+### DC
+
+**Image Captioning**  
+
+- **Bottom-up**:Bottom-up and top-down attention for image captioning and visual question answering
+[[paper]](https://arxiv.org/abs/1707.07998)
+[[code]](https://github.com/peteanderson80/bottom-up-attention)  
+comments:	CVPR 2018 full oral, winner of the 2017 Visual Question Answering challenge
+
+- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning
+[[paper]](https://arxiv.org/abs/1612.01887)
+[[code]](https://github.com/jiasenlu/AdaptiveAttention)  
+comments:	12 pages, 11 figures, CVPR2017 camera ready
+
+- Self-critical Sequence Training for Image Captioning
+[[paper]](https://arxiv.org/abs/1612.00563)
+[[code]](https://github.com/ruotianluo/self-critical.pytorch)  
+comments:	CVPR 2017 + additional analysis + fixed baseline results, 16 pages。 Some other source codes are based on the modification of this working code.
+
+- Show and Tell: A Neural Image Caption Generator
+[[paper]](https://arxiv.org/abs/1411.4555)
+[[code]](https://github.com/karpathy/neuraltalk2)  
+comments:	CVPR 2015. Many studies, including 'Show, Edit and Tell', 'Show, Control and Tell' and 'Show, Recall, and Tell', are inspired by this work.
+
+- Recurrent Fusion Network for Image Captioning
+[[paper]](https://arxiv.org/abs/1807.09986)
+[[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network)  
+comments:	ECCV 2018.
+
+- Aligning Linguistic Words and Visual Semantic Units for Image Captioning 
+[[paper]](https://arxiv.org/abs/1908.02127)
+[[code]](https://github.com/ltguo19/VSUA-Captioning)  
+comments:	ACMMM 2019.
+
+- Context-aware visual policy network for sequence-level image captioning
+[[paper]](https://arxiv.org/abs/1808.05864v3)
+[[code]](https://github.com/daqingliu/CAVP)  
+comments:	9 pages, 6 figures, ACM MM 2018 oral.
+
+- Discriminability objective for training descriptive captions
+[[paper]](https://arxiv.org/abs/1803.04376v2)
+[[code]](https://github.com/ruotianluo/ImageCaptioning.pytorch)  
+comments: CVPR2018.
+
+- Stack-Captioning: Coarse-to-Fine Learning for Image Captioning
+[[paper]](https://arxiv.org/abs/1709.03376v3)
+[[code]](https://github.com/gujiuxiang/Stack-Captioning)  
+comments: AAAI-2018, Oral Presentation.
