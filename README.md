@@ -67,7 +67,8 @@
 
 **Image Captioning**
 
-- **Unified VLP**: Unified Vision-Language Pre-Training for Image Captioning and VQA  [[paper]](https://arxiv.org/abs/1909.11059)  
+- **Unified VLP**: Unified Vision-Language Pre-Training for Image Captioning and VQA  [[paper]](https://arxiv.org/abs/1909.11059)
+[[code]](https://github.com/LuoweiZhou/VLP)  
   *Luowei Zhou (University of Michigan); Hamid Palangi (Microsoft Research); Lei Zhang (Microsoft); Houdong Hu  (Microsoft AI and Research); Jason Corso (University of Michigan); Jianfeng Gao (Microsoft Research)*  
 
 - **OffPG**: Reinforcing an Image Caption Generator using Off-line Human Feedback  [[paper]](https://arxiv.org/abs/1911.09753)  
@@ -107,14 +108,8 @@
 - Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
   *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
 
-- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
-  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
-
 - Generating Question Relevant Captions to Aid Visual Question Answering  [[paper]](https://www.aclweb.org/anthology/P19-1348.pdf)  
   *Jialin Wu, Zeyuan Hu and Raymond Mooney*
-
-- Bridging by Word: Image Grounded Vocabulary Construction for Visual Captioning  [[paper]](https://www.aclweb.org/anthology/P19-1652.pdf)  
-  *Zhihao Fan, Zhongyu Wei, Siyuan Wang and Xuanjing Huang*
 
 ### NeurIPS-2019
 
@@ -136,7 +131,7 @@
   *Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang*  
   `ICCV 2019 Oral`
 
-- **POS+CG**: Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)  
+- **POS+CG**: Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)  [[code]](https://github.com/vsislab/Controllable_XGating)  
   *Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*
 
 - **POS**: Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)  
@@ -148,7 +143,8 @@
   *Dong Huk Park, Trevor Darrell, Anna Rohrbach*  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Robust_Change_Captioning_ICCV_2019_paper.pdf)    
   `ICCV 2019 Oral`
 
-- **AoANet**: Attention on Attention for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)  
+- **AoANet**: Attention on Attention for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.pdf)
+[[code]](https://github.com/husthuaan/AoANet)  
   *Lun Huang, Wenmin Wang, Jie Chen, Xiao-Yong Wei*   
   `ICCV 2019 Oral`
 
@@ -173,7 +169,7 @@
 - Towards Unsupervised Image Captioning With Shared Multimodal Embeddings  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Laina_Towards_Unsupervised_Image_Captioning_With_Shared_Multimodal_Embeddings_ICCV_2019_paper.pdf)   
   *Iro Laina, Christian Rupprecht, Nassir Navab*    
 
-- Human Attention in Image Captioning: Dataset and Analysis  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf)  
+- Human Attention in Image Captioning: Dataset and Analysis  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/He_Human_Attention_in_Image_Captioning_Dataset_and_Analysis_ICCV_2019_paper.pdf) [[code]](https://github.com/SenHe/Human-Attention-in-Image-Captioning)   
   *Sen He, Hamed R. Tavakoli, Ali Borji, Nicolas Pugeault*   
 
 - **RDN**: Reflective Decoding Network for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ke_Reflective_Decoding_Network_for_Image_Captioning_ICCV_2019_paper.pdf)  
@@ -191,7 +187,8 @@
 - **nocaps**: novel object captioning at scale  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Agrawal_nocaps_novel_object_captioning_at_scale_ICCV_2019_paper.pdf)  
   *Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson*   
 
-- **Cap2Det**: Learning to Amplify Weak Caption Supervision for Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Cap2Det_Learning_to_Amplify_Weak_Caption_Supervision_for_Object_Detection_ICCV_2019_paper.pdf)  
+- **Cap2Det**: Learning to Amplify Weak Caption Supervision for Object Detection  [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Cap2Det_Learning_to_Amplify_Weak_Caption_Supervision_for_Object_Detection_ICCV_2019_paper.pdf) 
+[[code]](https://github.com/yekeren/Cap2Det)   
   *Keren Ye, Mingda Zhang, Adriana Kovashka, Wei Li, Danfeng Qin, Jesse Berent*   
 
 - **Graph-Align**: Unpaired Image Captioning via Scene Graph Alignments  [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_Unpaired_Image_Captioning_via_Scene_Graph_Alignments_ICCV_2019_paper.pdf)  
@@ -218,7 +215,7 @@
 - Adversarial Attack to Image Captioning via Structured Output Learning With Latent Variables  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)  
   *Yan Xu (UESTC); Baoyuan Wu (Tencent AI Lab); Fumin Shen (UESTC); Yanbo Fan (Tencent AI Lab); Yong Zhang (Tencent AI Lab); Heng Tao Shen (University of Electronic Science and Technology of China (UESTC)); Wei Liu (Tencent)*   
 
-- Describing like Humans: On Diversity in Image Captioning [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)   
+- Describing like Humans: On Diversity in Image Captioning [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf) [[code]](https://github.com/qingzwang/DiversityMetrics) 
   *Qingzhong Wang (Department of Computer Science, City University of Hong Kong); Antoni Chan (City University of Hong Kong, Hong, Kong)*  
 
 - **MSCap**: Multi-Style Image Captioning With Unpaired Stylized Text  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_MSCap_Multi-Style_Image_Captioning_With_Unpaired_Stylized_Text_CVPR_2019_paper.pdf)   
@@ -230,10 +227,12 @@
 - Context and Attribute Grounded Dense Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Context_and_Attribute_Grounded_Dense_Captioning_CVPR_2019_paper.pdf)  
   *Guojun Yin (University of Science and Technology of China); Lu Sheng (The Chinese University of Hong Kong); Bin Liu (University of Science and Technology of China); Nenghai Yu (University of Science and Technology of China); Xiaogang Wang (Chinese University of Hong Kong, Hong Kong); Jing Shao (Sensetime)*  
 
-- Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Dense_Relational_Captioning_Triple-Stream_Networks_for_Relationship-Based_Captioning_CVPR_2019_paper.pdf)   
+- Dense Relational Captioning: Triple-Stream Networks for Relationship-Based Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Dense_Relational_Captioning_Triple-Stream_Networks_for_Relationship-Based_Captioning_CVPR_2019_paper.pdf)
+[[code]](https://github.com/Dong-JinKim/DenseRelationalCaptioning) 
   *Dong-Jin Kim (KAIST); Jinsoo Choi (KAIST); Tae-Hyun Oh (MIT CSAIL); In So Kweon (KAIST)*  
 
-- **Show, Control and Tell**: A Framework for Generating Controllable and Grounded Captions  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cornia_Show_Control_and_Tell_A_Framework_for_Generating_Controllable_and_CVPR_2019_paper.pdf)  
+- **Show, Control and Tell**: A Framework for Generating Controllable and Grounded Captions  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cornia_Show_Control_and_Tell_A_Framework_for_Generating_Controllable_and_CVPR_2019_paper.pdf)
+[[code]](https://github.com/aimagelab/show-control-and-tell) 
   *Marcella Cornia (University of Modena and Reggio Emilia); Lorenzo Baraldi (University of Modena and Reggio Emilia); Rita Cucchiara (Universita Di Modena E Reggio Emilia)*  
 
 - Self-Critical N-step Training for Image Captioning  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Self-Critical_N-Step_Training_for_Image_Captioning_CVPR_2019_paper.pdf)  
@@ -269,11 +268,13 @@
    *Jonghwan Mun (POSTECH); Linjie Yang (ByteDance AI Lab); Zhou Ren (Snap Inc.); Ning Xu (Snap); Bohyung Han (Seoul National University)*  
    `CVPR 2019 Oral`
 
--  **GVD**: Grounded Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)  
+-  **GVD**: Grounded Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf) 
+[[code]](https://github.com/facebookresearch/grounded-video-description)
    *Luowei Zhou (University of Michigan); Yannis Kalantidis (Facebook Research); Xinlei Chen (Facebook AI Research); Jason J Corso (University of Michigan); Marcus Rohrbach (Facebook AI Research)*  
    `CVPR 2019 Oral`
 
--  **HybridDis**: Adversarial Inference for Multi-Sentence Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)  
+-  **HybridDis**: Adversarial Inference for Multi-Sentence Video Description  [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)  [[code]](https://github.com/jamespark3922/adv-inf)
+
    *Jae Sung Park (UC Berkeley); Marcus Rohrbach (Facebook AI Research); Trevor Darrell (UC Berkeley); Anna Rohrbach (UC Berkeley)*	  
    `CVPR 2019 Oral`
 
@@ -312,7 +313,8 @@
   *Xin Wang (University of California, Santa Barbara); Jiawei Wu (University of California, Santa Barbara); Da Zhang (UC Santa Barbara); Yu Su (OSU); William Wang (UC Santa Barbara)*  
   `AAAI 2019 Oral`
 
-- **TDConvED**: Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning   [[paper]](https://arxiv.org/pdf/1905.01077v1.pdf)  
+- **TDConvED**: Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning   [[paper]](https://arxiv.org/pdf/1905.01077v1.pdf)
+[[code]](https://github.com/b05902062/TDConvED)
   *Jingwen Chen (Sun Yat-set University); Yingwei Pan (JD AI Research); Yehao Li (Sun Yat-Sen University); Ting Yao (JD AI Research); Hongyang Chao (Sun Yat-sen University); Tao Mei (AI Research of JD.com)*  
   `AAAI 2019 Oral`
 
