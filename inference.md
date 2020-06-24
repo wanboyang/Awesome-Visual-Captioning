@@ -23,3 +23,4 @@
 - X-Linear Attention Networks for Image Captioning [[paper]](https://arxiv.org/abs/2003.14080) [[code]](https://github.com/JDAI-CV/image-captioning)  
   Yingwei Pan, Ting Yao, Yehao Li, Tao Mei
 
+- *****The above works, which have been published in CVPR2020, are all based on bottom up feature extraction proposed in [[code]](https://github.com/peteanderson80/bottom-up-attention). The raw picture can not used as input in their opening code.
