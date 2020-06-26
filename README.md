@@ -331,7 +331,8 @@
 
 - **Bottom-up**:Bottom-up and top-down attention for image captioning and visual question answering
 [[paper]](https://arxiv.org/abs/1707.07998)
-[[code]](https://github.com/peteanderson80/bottom-up-attention)  
+[[feature_code]](https://github.com/peteanderson80/bottom-up-attention)
+[[captiooing_code]](https://github.com/peteanderson80/Up-Down-Captioner)  
 comments:	CVPR 2018 full oral, winner of the 2017 Visual Question Answering challenge
 
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning
