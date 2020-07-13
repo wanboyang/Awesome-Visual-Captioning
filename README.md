@@ -54,10 +54,11 @@
 - Clue: Cross-modal Coherence Modeling for Caption Generation [[paper]](https://arxiv.org/abs/2005.00908)  
   Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone
 
-- Improving Image Captioning Evaluation by Considering Inter References Variance   
-  Yanzhi Yi, Hangyu Deng and Jinglu Hu
-- Improving Image Captioning with Better Use of Caption  
+- Improving Image Captioning Evaluation by Considering Inter References Variance[[paper]](https://www.aclweb.org/anthology/2020.acl-main.93/)  
+  Yanzhi Yi, Hangyu Deng and Jinglu Hu  
+- Improving Image Captioning with Better Use of Caption[[paper]](https://www.aclweb.org/anthology/2020.acl-main.664/)  
   Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu
+
 
 **Video Captioning** 
 
