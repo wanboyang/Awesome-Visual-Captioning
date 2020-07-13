@@ -88,7 +88,7 @@
 - Show, Recall, and Tell: Image Captioning with Recall Mechanism [[paper]](https://arxiv.org/abs/2001.05876)  
   *Li WANG (MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, China); Zechen BAI(Institute of Software, Chinese Academy of Science, China); Yonghua Zhang (Bytedance); Hongtao Lu (Shanghai Jiao Tong University)*   
 
-- Interactive Dual Generative Adversarial Networks for Image Captioning  
+- Interactive Dual Generative Adversarial Networks for Image Captioning  [[paper]]https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf)  
   *Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen (Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*  
 
 - **FDM-net**: Feature Deformation Meta-Networks in Image Captioning of Novel Objects [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf)  
