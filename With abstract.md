@@ -1,9 +1,7 @@
 # Awesome-Visual-Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [release papers ACMMM-2020](#ACMMM-2020)
-- [release papers NeurIPS-2020](#NeurIPS-2020)
-- [ECCV-2020](#ECCV-2020)
+
 - [release papers CVPR-2020](#CVPR-2020)
 - [release papers ACL-2020](#ACL-2020)
 - [update links AAAI-2020](#AAAI-2020)
@@ -12,50 +10,8 @@
 - [ICCV-2019](#ICCV-2019)
 - [CVPR-2019](#CVPR-2019)
 - [AAAI-2019](#AAAI-2019)
-- [Deep-learning based and Classical methods](#DC)
 
 ## Paper Roadmap
-### ACMMM-2020
-**Image Captioning**
-- Structural Semantic Adversarial Active Learning for Image Captioning. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413885)  
-- Iterative Back Modification for Faster Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413901)  
-- Bridging the Gap between Vision and Language Domains for Improved Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414004)  
-- Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413859)  
-- Improving Intra- and Inter-Modality Visual Relation for Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413877)  
-- ICECAP: Information Concentrated Entity-aware Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413576)  
-- Attacking Image Captioning Towards Accuracy-Preserving Target Words Removal. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414009)  
-- Multimodal Attention with Image Text Spatial Relationship for OCR-Based Image Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413753)  
-
-**Video Captioning**
-- Controllable Video Captioning with an Exemplar Sentence. `oral` [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413908)  
-- Poet: Product-oriented Video Captioner for E-commerce. `oral` [[paper]](https://arxiv.org/abs/2008.06880)  
-- Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413498)  
-- Relational Graph Learning for Grounded Video Description Generation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413746)  
-
-### NeurIPS-2020
-- Prophet Attention: Predicting Attention with Future Attention for Improved Image Captioning.  
-- RATT: Recurrent Attention to Transient Tasks for Continual Image Captioning.  
-- Diverse Image Captioning with Context-Object Split Latent Spaces.  
-
-### ECCV-2020
-**Image Captioning**
-- Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets. `oral` [[paper]](https://arxiv.org/pdf/2007.06877.pdf)
-- In-Home Daily-Life Captioning Using Radio Signals. `oral` [[paper]](https://arxiv.org/pdf/2008.10966.pdf) [[website]](http://rf-diary.csail.mit.edu/)
-- TextCaps: a Dataset for Image Captioning with Reading Comprehension. `oral` [[paper]](https://arxiv.org/pdf/2003.12462.pdf) [[website]](https://textvqa.org/textcaps) [[code]](https://github.com/facebookresearch/mmf/tree/master/projects/m4c_captioner)
-- SODA: Story Oriented Dense Video Captioning Evaluation Framework. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510511.pdf)
-- Towards Unique and Informative Captioning of Images. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520613.pdf) 
-- Learning Visual Representations with Caption Annotations. [[paper]](https://arxiv.org/pdf/2008.01392.pdf) [[website]](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/icmlm/)
-- Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards. [[paper]](https://arxiv.org/pdf/2008.02693.pdf)
-- Length Controllable Image Captioning. [[paper]](https://arxiv.org/pdf/2007.09580.pdf) [[code]](https://github.com/bearcatt/LaBERT)
--	Comprehensive Image Captioning via Scene Graph Decomposition. [[paper]](https://arxiv.org/pdf/2007.11731.pdf) [[website]](http://pages.cs.wisc.edu/~yiwuzhong/Sub-GC.html)
-- Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
-- Captioning Images Taken by People Who Are Blind. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620409.pdf)
-- Learning to Generate Grounded Visual Captions without Localization Supervision. [[paper]](https://arxiv.org/pdf/1906.00283.pdf) [[code]](https://github.com/chihyaoma/cyclical-visual-captioning)
-
-**Video Captioning**
-- Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos. `Spotlight` [[paper]](https://arxiv.org/pdf/2007.14164.pdf) [[code]](https://github.com/xuewyang/Fashion_Captioning)
-- Character Grounding and Re-Identification in Story of Videos and Text Descriptions. `Spotlight` [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500528.pdf) [[code]](https://github.com/yj-yu/CiSIN/)
-- Identity-Aware Multi-Sentence Video Description. [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660358.pdf) 
 
 ### CVPR-2020
 
@@ -97,11 +53,10 @@
 - Clue: Cross-modal Coherence Modeling for Caption Generation [[paper]](https://arxiv.org/abs/2005.00908)  
   Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone
 
-- Improving Image Captioning Evaluation by Considering Inter References Variance[[paper]](https://www.aclweb.org/anthology/2020.acl-main.93/)  
-  Yanzhi Yi, Hangyu Deng and Jinglu Hu  
-- Improving Image Captioning with Better Use of Caption[[paper]](https://www.aclweb.org/anthology/2020.acl-main.664/)  
+- Improving Image Captioning Evaluation by Considering Inter References Variance   
+  Yanzhi Yi, Hangyu Deng and Jinglu Hu
+- Improving Image Captioning with Better Use of Caption  
   Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu
-
 
 **Video Captioning** 
 
@@ -131,7 +86,7 @@
 - Show, Recall, and Tell: Image Captioning with Recall Mechanism [[paper]](https://arxiv.org/abs/2001.05876)  
   *Li WANG (MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, China); Zechen BAI(Institute of Software, Chinese Academy of Science, China); Yonghua Zhang (Bytedance); Hongtao Lu (Shanghai Jiao Tong University)*   
 
-- Interactive Dual Generative Adversarial Networks for Image Captioning  [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf)  
+- Interactive Dual Generative Adversarial Networks for Image Captioning  
   *Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen (Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*  
 
 - **FDM-net**: Feature Deformation Meta-Networks in Image Captioning of Novel Objects [[paper]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf)  
@@ -368,53 +323,3 @@
 
 - **MGSA**: Motion Guided Spatial Attention for Video Captioning  [[paper]](http://yugangjiang.info/publication/19AAAI-vidcaptioning.pdf)  
   *Shaoxiang Chen (Fudan University); Yu-Gang Jiang (Fudan University)*  
-  
-### DC
-
-**Image Captioning**  
-
-- **Bottom-up**:Bottom-up and top-down attention for image captioning and visual question answering
-[[paper]](https://arxiv.org/abs/1707.07998)
-[[feature_code]](https://github.com/peteanderson80/bottom-up-attention)
-[[captiooing_code]](https://github.com/peteanderson80/Up-Down-Captioner)  
-comments:	CVPR 2018 full oral, winner of the 2017 Visual Question Answering challenge
-
-- Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning
-[[paper]](https://arxiv.org/abs/1612.01887)
-[[code]](https://github.com/jiasenlu/AdaptiveAttention)  
-comments:	12 pages, 11 figures, CVPR2017 camera ready
-
-- Self-critical Sequence Training for Image Captioning
-[[paper]](https://arxiv.org/abs/1612.00563)
-[[code]](https://github.com/ruotianluo/self-critical.pytorch)  
-comments:	CVPR 2017 + additional analysis + fixed baseline results, 16 pages。 Some other source codes are based on the modification of this working code.
-
-- Show and Tell: A Neural Image Caption Generator
-[[paper]](https://arxiv.org/abs/1411.4555)
-[[code]](https://github.com/karpathy/neuraltalk2)  
-comments:	CVPR 2015. Many studies, including 'Show, Edit and Tell', 'Show, Control and Tell' and 'Show, Recall, and Tell', are inspired by this work.
-
-- Recurrent Fusion Network for Image Captioning
-[[paper]](https://arxiv.org/abs/1807.09986)
-[[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network)  
-comments:	ECCV 2018.
-
-- Aligning Linguistic Words and Visual Semantic Units for Image Captioning 
-[[paper]](https://arxiv.org/abs/1908.02127)
-[[code]](https://github.com/ltguo19/VSUA-Captioning)  
-comments:	ACMMM 2019.
-
-- Context-aware visual policy network for sequence-level image captioning
-[[paper]](https://arxiv.org/abs/1808.05864v3)
-[[code]](https://github.com/daqingliu/CAVP)  
-comments:	9 pages, 6 figures, ACM MM 2018 oral.
-
-- Discriminability objective for training descriptive captions
-[[paper]](https://arxiv.org/abs/1803.04376v2)
-[[code]](https://github.com/ruotianluo/ImageCaptioning.pytorch)  
-comments: CVPR2018.
-
-- Stack-Captioning: Coarse-to-Fine Learning for Image Captioning
-[[paper]](https://arxiv.org/abs/1709.03376v3)
-[[code]](https://github.com/gujiuxiang/Stack-Captioning)  
-comments: AAAI-2018, Oral Presentation.

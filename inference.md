@@ -22,5 +22,5 @@
   Marcella Cornia, Matteo Stefanini, Lorenzo Baraldi, Rita Cucchiara
 - X-Linear Attention Networks for Image Captioning [[paper]](https://arxiv.org/abs/2003.14080) [[code]](https://github.com/JDAI-CV/image-captioning)  
   Yingwei Pan, Ting Yao, Yehao Li, Tao Mei
-- Transform and Tell: Entity-Aware News Image Captioning [[paper]](https://arxiv.org/abs/2004.08070) [[code]](https://github.com/alasdairtran/transform-and-tell) [[website]](https://transform-and-tell.ml/)  
-  Alasdair Tran, Alexander Mathews, Lexing Xie
+
+- *****The above works, which have been published in CVPR2020, are all based on bottom up feature extraction proposed in [[code]](https://github.com/peteanderson80/bottom-up-attention). The raw picture can not used as input in their opening code.
